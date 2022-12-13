@@ -1,4 +1,4 @@
-class Solution {
+class LetCode7 {
     public int reverse(int x) {
         int m = 0;//return value
         int min=Integer.MIN_VALUE;//min value  -2^31
